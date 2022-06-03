@@ -13,3 +13,6 @@
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for--square&logo=SpringBoot&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for--square&logo=mysql&logoColor=white"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanagku123&layout=compact)](https://github.com/kanagku123/github-readme-stats)
+

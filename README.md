@@ -9,7 +9,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanagku123&include_all_commits=true&count_private=true&count_private=true&theme=tokyonight&hide=prs,issues)
 
-<h3 align="center">✨ Learning Tech ✨ </h3>
+💪 Skills
+Platforms & Languages
 <p align="center">
   <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-square&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-square&logo=Spring&logoColor=white">

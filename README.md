@@ -10,6 +10,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanagku123&include_all_commits=true&count_private=true&count_private=true&theme=tokyonight&hide=prs,issues)
 
 💪 Skills
+
 Platforms & Languages
 <p align="center">
   <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-square&logo=Thymeleaf&logoColor=white"/>
@@ -21,8 +22,10 @@ Platforms & Languages
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&amp;logo=HTML5&amp;logoColor=white"> 
 </p>
 
+Tools
 <p>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 </p>
 
 

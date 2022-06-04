@@ -21,5 +21,10 @@ Platforms & Languages
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&amp;logo=HTML5&amp;logoColor=white"> 
 </p>
 
+<p>
+    <img src="https://img.shields.io/badge/Visual Studio Code-#007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+</p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanagku123&layout=compact)](https://github.com/kanagku123/github-readme-stats)
 

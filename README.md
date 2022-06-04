@@ -25,7 +25,8 @@ Platforms & Languages
 
 Tools
 <p align="center">
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&amp;logo==Visual Studio Code&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&amp;logo=Eclipse IDE&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&amp;logo==Visual Studio Code&amp;logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=plastic&amp;logo=IntelliJ IDEA&amp;logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&amp;logo=GitHub&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&amp;logo=Postman&amp;logoColor=white">

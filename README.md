@@ -30,11 +30,6 @@ Tools
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&amp;logo=GitHub&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&amp;logo=Postman&amp;logoColor=white">
   
-  
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
 
 

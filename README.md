@@ -22,7 +22,7 @@ Platforms & Languages
 </p>
 
 <p>
-    <img src="https://img.shields.io/badge/Visual Studio Code-#007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 </p>
 
 

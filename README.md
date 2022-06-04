@@ -20,7 +20,7 @@ Platforms & Languages
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for--square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&amp;logo=HTML5&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-1572B6?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 </p>
 
 Tools
@@ -28,7 +28,7 @@ Tools
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-FF6C37?style=for-the-badge&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
 
 

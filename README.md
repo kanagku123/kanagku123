@@ -3,15 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=%20Kyoung%20kyu%20&fontSize=80&textBg=true&animation=twinkling)
 
 
-<h3> - :mortar_board: College student </h3>
+<h3>  -  :mortar_board: College student </h3>
 
-
-<h3> - 🌱 Learning  </h3>
+<h3>  -  🌱 Learning  </h3>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanagku123&include_all_commits=true&count_private=true&count_private=true&theme=tokyonight&hide=prs,issues)
 
-💪 Skills
+ 💪  Skills
 
 Platforms & Languages
 <p align="center">

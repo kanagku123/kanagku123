@@ -12,7 +12,6 @@
 
  💪  Skills
 
-
 Platforms & Languages
 <p align="center">
   <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-square&logo=Thymeleaf&logoColor=white"/>

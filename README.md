@@ -1,11 +1,6 @@
 #경규(Enfp)'s github
 
-
-
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=%20Kyoung%20kyu%20&fontSize=80&textBg=true&animation=twinkling)
-
-
-
 
 <h3>  -  :mortar_board: College student </h3>
 
@@ -17,9 +12,7 @@
 
  💪  Skills
  
-
 Platforms & Languages
-
 
 <p align="center">
   <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-square&logo=Thymeleaf&logoColor=white"/>

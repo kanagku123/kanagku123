@@ -31,7 +31,6 @@ Tools
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&amp;logo=GitHub&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&amp;logo=Postman&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&amp;logo=Anaconda&amp;logoColor=white">
-  
 </p>
 
 

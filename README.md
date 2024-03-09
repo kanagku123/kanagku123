@@ -1,4 +1,4 @@
-#경규(Enfp)'s github
+#경규(Esfj)'s github
 
 
 

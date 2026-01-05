@@ -1,16 +1,21 @@
 # 👋 Hi, I'm Kyoung-kyu (경규)
 
 ---
-
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanagku123&include_all_commits=true&count_private=true&theme=tokyonight&hide=prs,issues" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kanagku123&include_all_commits=true&count_private=true&theme=tokyonight&hide=prs,issues"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanagku123&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanagku123&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
-
 ---
 
 ## 🧑‍💻 Developer Profile

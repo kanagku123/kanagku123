@@ -1,49 +1,86 @@
-#경규(Esfj)'s github
+# 👋 Hi, I'm Kyoung-kyu (경규)
 
+---
 
-
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=%20Kyoung%20kyu%20&fontSize=80&textBg=true&animation=twinkling)
-
-
-
-
-
-
-<h3>  -  :mortar_board: College student </h3>
-
-
-<h3>  -  🌱 Learning  </h3>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanagku123&include_all_commits=true&count_private=true&count_private=true&theme=tokyonight&hide=prs,issues)
-
- 💪  Skills
- 
-Platforms & Languages
-
+## 📊 GitHub Stats
 <p align="center">
-  <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-square&logo=Thymeleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-square&logo=Spring&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for--square&logo=SpringBoot&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for--square&logo=mysql&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for--square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&amp;logo=HTML5&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&amp;logo=CSS3&amp;logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanagku123&include_all_commits=true&count_private=true&theme=tokyonight&hide=prs,issues" />
 </p>
 
-
-
-Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&amp;logo=Eclipse IDE&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&amp;logo==Visual Studio Code&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=plastic&amp;logo=IntelliJ IDEA&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&amp;logo=GitHub&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&amp;logo=Postman&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&amp;logo=Anaconda&amp;logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanagku123&layout=compact&theme=tokyonight" />
 </p>
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanagku123&layout=compact)](https://github.com/kanagku123/github-readme-stats)
+## 🧑‍💻 Developer Profile
 
+### 💡 Who I Am
+- **Backend 중심 개발자**
+- 실시간 데이터 처리와 서비스 운영 경험 보유
+- 개인 프로젝트부터 실무 운영 시스템까지 직접 개발·운영
+- 기능 구현보다 **구조, 안정성, 데이터 무결성**을 중요하게 생각
+
+---
+
+### 🛠 What I Can Do
+
+#### 🔹 Backend
+- Java / Spring Boot / Spring MVC 기반 서버 개발
+- REST API 설계 및 구현
+- WebSocket 기반 실시간 통신 처리
+- MyBatis(XML) · JDBC Template 실무 활용
+
+#### 🔹 Database
+- MariaDB · MySQL 실사용 경험
+- PK / FK / UNIQUE / INDEX 설계
+- 트랜잭션 기반 데이터 처리
+- 대용량 테이블 조회, 페이징, 날짜 조건 검색
+- 로그 테이블 설계 및 변경 이력 관리
+
+#### 🔹 Cloud & Infra
+- AWS EC2 서버 구축 및 운영
+- Linux 환경 서비스 배포
+- Docker 컨테이너 기반 서비스 구성
+- Nginx 리버스 프록시 및 포트 분기 설정
+
+#### 🔹 Frontend / Client
+- Flutter 멀티 플랫폼 개발 (Web / Windows / Android)
+- 관리자 페이지 및 대시보드 UI 구현
+- API 연동 및 상태 관리 경험
+
+---
+
+### 🧠 Engineering Mindset
+- 운영 중인 서비스 기준으로 개발
+- 장애 및 예외 상황을 고려한 설계
+- 로그와 이력을 통한 **추적 가능한 시스템** 지향
+- 혼자서 **기획 → 개발 → 배포 → 운영**까지 가능
+
+---
+
+## 💪 Skills & Tools
+
+### 🧩 Languages & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+</p>
+
+### 🗄 Database & Cache
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
+</p>
+
+### ☁️ Infra & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
+</p>
